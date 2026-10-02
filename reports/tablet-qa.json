@@ -1,0 +1,458 @@
+[
+  {
+    "bonus": 2,
+    "mathErrors": 0,
+    "overflow": false,
+    "title": "Relations and Functions",
+    "url": "#/lesson/1.1",
+    "width": 768
+  },
+  {
+    "bonus": 2,
+    "mathErrors": 0,
+    "overflow": false,
+    "title": "Function Notation",
+    "url": "#/lesson/1.2",
+    "width": 768
+  },
+  {
+    "bonus": 2,
+    "mathErrors": 0,
+    "overflow": false,
+    "title": "Domain and Range",
+    "url": "#/lesson/1.3",
+    "width": 768
+  },
+  {
+    "bonus": 2,
+    "mathErrors": 0,
+    "overflow": false,
+    "title": "Parent Functions",
+    "url": "#/lesson/1.4",
+    "width": 768
+  },
+  {
+    "bonus": 2,
+    "mathErrors": 0,
+    "overflow": false,
+    "title": "Exploring Transformations",
+    "url": "#/lesson/1.5",
+    "width": 768
+  },
+  {
+    "bonus": 2,
+    "mathErrors": 0,
+    "overflow": false,
+    "title": "Graphing Transformations",
+    "url": "#/lesson/1.6",
+    "width": 768
+  },
+  {
+    "bonus": 2,
+    "mathErrors": 0,
+    "overflow": false,
+    "title": "Inverse Functions",
+    "url": "#/lesson/1.7",
+    "width": 768
+  },
+  {
+    "bonus": 2,
+    "mathErrors": 0,
+    "overflow": false,
+    "title": "Adding and Subtracting Polynomials",
+    "url": "#/lesson/2.1",
+    "width": 768
+  },
+  {
+    "bonus": 2,
+    "mathErrors": 0,
+    "overflow": false,
+    "title": "Multiplying Polynomials",
+    "url": "#/lesson/2.2",
+    "width": 768
+  },
+  {
+    "bonus": 2,
+    "mathErrors": 0,
+    "overflow": false,
+    "title": "Factoring Polynomials",
+    "url": "#/lesson/2.3",
+    "width": 768
+  },
+  {
+    "bonus": 2,
+    "mathErrors": 0,
+    "overflow": false,
+    "title": "Simplifying Rational Functions",
+    "url": "#/lesson/2.4",
+    "width": 768
+  },
+  {
+    "bonus": 2,
+    "mathErrors": 0,
+    "overflow": false,
+    "title": "Exploring Graphs of Rational Functions",
+    "url": "#/lesson/2.5",
+    "width": 768
+  },
+  {
+    "bonus": 2,
+    "mathErrors": 0,
+    "overflow": false,
+    "title": "Multiplying and Dividing Rational Expressions",
+    "url": "#/lesson/2.6",
+    "width": 768
+  },
+  {
+    "bonus": 2,
+    "mathErrors": 0,
+    "overflow": false,
+    "title": "Adding and Subtracting Rational Expressions",
+    "url": "#/lesson/2.7",
+    "width": 768
+  },
+  {
+    "bonus": 2,
+    "mathErrors": 0,
+    "overflow": false,
+    "title": "Properties of Quadratic Functions",
+    "url": "#/lesson/3.1",
+    "width": 768
+  },
+  {
+    "bonus": 2,
+    "mathErrors": 0,
+    "overflow": false,
+    "title": "Maximum and Minimum Values",
+    "url": "#/lesson/3.2",
+    "width": 768
+  },
+  {
+    "bonus": 2,
+    "mathErrors": 0,
+    "overflow": false,
+    "title": "Inverse of a Quadratic Function",
+    "url": "#/lesson/3.3",
+    "width": 768
+  },
+  {
+    "bonus": 2,
+    "mathErrors": 0,
+    "overflow": false,
+    "title": "Operations with Radicals",
+    "url": "#/lesson/3.4",
+    "width": 768
+  },
+  {
+    "bonus": 2,
+    "mathErrors": 0,
+    "overflow": false,
+    "title": "Quadratic Models and Solving Quadratic Equations",
+    "url": "#/lesson/3.5",
+    "width": 768
+  },
+  {
+    "bonus": 2,
+    "mathErrors": 0,
+    "overflow": false,
+    "title": "Zeros of a Quadratic Function",
+    "url": "#/lesson/3.6",
+    "width": 768
+  },
+  {
+    "bonus": 2,
+    "mathErrors": 0,
+    "overflow": false,
+    "title": "Families of Quadratic Functions",
+    "url": "#/lesson/3.7",
+    "width": 768
+  },
+  {
+    "bonus": 2,
+    "mathErrors": 0,
+    "overflow": false,
+    "title": "Linear–Quadratic Systems",
+    "url": "#/lesson/3.8",
+    "width": 768
+  },
+  {
+    "bonus": 2,
+    "mathErrors": 0,
+    "overflow": false,
+    "title": "Growth and Decay",
+    "url": "#/lesson/4.1",
+    "width": 768
+  },
+  {
+    "bonus": 2,
+    "mathErrors": 0,
+    "overflow": false,
+    "title": "Integer Exponents",
+    "url": "#/lesson/4.2",
+    "width": 768
+  },
+  {
+    "bonus": 2,
+    "mathErrors": 0,
+    "overflow": false,
+    "title": "Rational Exponents",
+    "url": "#/lesson/4.3",
+    "width": 768
+  },
+  {
+    "bonus": 2,
+    "mathErrors": 0,
+    "overflow": false,
+    "title": "Simplifying Expressions Involving Exponents",
+    "url": "#/lesson/4.4",
+    "width": 768
+  },
+  {
+    "bonus": 2,
+    "mathErrors": 0,
+    "overflow": false,
+    "title": "Properties of Exponential Functions",
+    "url": "#/lesson/4.5",
+    "width": 768
+  },
+  {
+    "bonus": 2,
+    "mathErrors": 0,
+    "overflow": false,
+    "title": "Transformations of Exponential Functions",
+    "url": "#/lesson/4.6",
+    "width": 768
+  },
+  {
+    "bonus": 2,
+    "mathErrors": 0,
+    "overflow": false,
+    "title": "Exponential Applications",
+    "url": "#/lesson/4.7",
+    "width": 768
+  },
+  {
+    "bonus": 2,
+    "mathErrors": 0,
+    "overflow": false,
+    "title": "Trigonometric Ratios of Acute Angles",
+    "url": "#/lesson/5.1",
+    "width": 768
+  },
+  {
+    "bonus": 2,
+    "mathErrors": 0,
+    "overflow": false,
+    "title": "Special Angles and Exact Values",
+    "url": "#/lesson/5.2",
+    "width": 768
+  },
+  {
+    "bonus": 2,
+    "mathErrors": 0,
+    "overflow": false,
+    "title": "Angles Greater Than 90°",
+    "url": "#/lesson/5.3",
+    "width": 768
+  },
+  {
+    "bonus": 2,
+    "mathErrors": 0,
+    "overflow": false,
+    "title": "Trigonometric Ratios for 0°–360°",
+    "url": "#/lesson/5.4",
+    "width": 768
+  },
+  {
+    "bonus": 2,
+    "mathErrors": 0,
+    "overflow": false,
+    "title": "Trigonometric Identities",
+    "url": "#/lesson/5.5",
+    "width": 768
+  },
+  {
+    "bonus": 2,
+    "mathErrors": 0,
+    "overflow": false,
+    "title": "Sine Law",
+    "url": "#/lesson/5.6",
+    "width": 768
+  },
+  {
+    "bonus": 2,
+    "mathErrors": 0,
+    "overflow": false,
+    "title": "Cosine Law",
+    "url": "#/lesson/5.7",
+    "width": 768
+  },
+  {
+    "bonus": 2,
+    "mathErrors": 0,
+    "overflow": false,
+    "title": "Three-Dimensional Trigonometry Problems",
+    "url": "#/lesson/5.8",
+    "width": 768
+  },
+  {
+    "bonus": 2,
+    "mathErrors": 0,
+    "overflow": false,
+    "title": "Periodic Functions",
+    "url": "#/lesson/6.1",
+    "width": 768
+  },
+  {
+    "bonus": 2,
+    "mathErrors": 0,
+    "overflow": false,
+    "title": "Properties of Sinusoidal Functions",
+    "url": "#/lesson/6.2",
+    "width": 768
+  },
+  {
+    "bonus": 2,
+    "mathErrors": 0,
+    "overflow": false,
+    "title": "Interpreting Sinusoidal Functions",
+    "url": "#/lesson/6.3",
+    "width": 768
+  },
+  {
+    "bonus": 2,
+    "mathErrors": 0,
+    "overflow": false,
+    "title": "Transformations of Sinusoidal Functions",
+    "url": "#/lesson/6.4",
+    "width": 768
+  },
+  {
+    "bonus": 2,
+    "mathErrors": 0,
+    "overflow": false,
+    "title": "Sketching Transformed Sinusoidal Graphs",
+    "url": "#/lesson/6.5",
+    "width": 768
+  },
+  {
+    "bonus": 2,
+    "mathErrors": 0,
+    "overflow": false,
+    "title": "Sinusoidal Models",
+    "url": "#/lesson/6.6",
+    "width": 768
+  },
+  {
+    "bonus": 2,
+    "mathErrors": 0,
+    "overflow": false,
+    "title": "Solving Problems with Sinusoidal Models",
+    "url": "#/lesson/6.7",
+    "width": 768
+  },
+  {
+    "bonus": 2,
+    "mathErrors": 0,
+    "overflow": false,
+    "title": "Arithmetic Sequences",
+    "url": "#/lesson/7.1",
+    "width": 768
+  },
+  {
+    "bonus": 2,
+    "mathErrors": 0,
+    "overflow": false,
+    "title": "Geometric Sequences",
+    "url": "#/lesson/7.2",
+    "width": 768
+  },
+  {
+    "bonus": 2,
+    "mathErrors": 0,
+    "overflow": false,
+    "title": "Rules for Sequences",
+    "url": "#/lesson/7.3",
+    "width": 768
+  },
+  {
+    "bonus": 2,
+    "mathErrors": 0,
+    "overflow": false,
+    "title": "Recursive Sequences",
+    "url": "#/lesson/7.4",
+    "width": 768
+  },
+  {
+    "bonus": 2,
+    "mathErrors": 0,
+    "overflow": false,
+    "title": "Arithmetic Series",
+    "url": "#/lesson/7.5",
+    "width": 768
+  },
+  {
+    "bonus": 2,
+    "mathErrors": 0,
+    "overflow": false,
+    "title": "Geometric Series",
+    "url": "#/lesson/7.6",
+    "width": 768
+  },
+  {
+    "bonus": 2,
+    "mathErrors": 0,
+    "overflow": false,
+    "title": "Pascal’s Triangle and Binomial Expansions",
+    "url": "#/lesson/7.7",
+    "width": 768
+  },
+  {
+    "bonus": 2,
+    "mathErrors": 0,
+    "overflow": false,
+    "title": "Simple Interest",
+    "url": "#/lesson/F1",
+    "width": 768
+  },
+  {
+    "bonus": 2,
+    "mathErrors": 0,
+    "overflow": false,
+    "title": "Compound Interest and Future Value",
+    "url": "#/lesson/F2",
+    "width": 768
+  },
+  {
+    "bonus": 2,
+    "mathErrors": 0,
+    "overflow": false,
+    "title": "Present Value",
+    "url": "#/lesson/F3",
+    "width": 768
+  },
+  {
+    "bonus": 2,
+    "mathErrors": 0,
+    "overflow": false,
+    "title": "Future Value of Ordinary Simple Annuities",
+    "url": "#/lesson/F4",
+    "width": 768
+  },
+  {
+    "bonus": 2,
+    "mathErrors": 0,
+    "overflow": false,
+    "title": "Present Value of Ordinary Simple Annuities",
+    "url": "#/lesson/F5",
+    "width": 768
+  },
+  {
+    "bonus": 2,
+    "mathErrors": 0,
+    "overflow": false,
+    "title": "Solving Financial Problems with Technology",
+    "url": "#/lesson/F6",
+    "width": 768
+  }
+]

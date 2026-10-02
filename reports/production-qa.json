@@ -1,0 +1,520 @@
+[
+  {
+    "mathErrors": 0,
+    "missingSections": [],
+    "route": "#/",
+    "title": "Functions,one lesson at a time.",
+    "badRoutes": []
+  },
+  {
+    "mathErrors": 0,
+    "missingSections": [],
+    "route": "#/unit/1",
+    "title": "Introduction to Functions",
+    "badRoutes": []
+  },
+  {
+    "mathErrors": 0,
+    "missingSections": [],
+    "route": "#/unit/2",
+    "title": "Algebraic Expressions",
+    "badRoutes": []
+  },
+  {
+    "mathErrors": 0,
+    "missingSections": [],
+    "route": "#/unit/3",
+    "title": "Quadratic Functions",
+    "badRoutes": []
+  },
+  {
+    "mathErrors": 0,
+    "missingSections": [],
+    "route": "#/unit/4",
+    "title": "Exponential Functions",
+    "badRoutes": []
+  },
+  {
+    "mathErrors": 0,
+    "missingSections": [],
+    "route": "#/unit/5",
+    "title": "Trigonometric Ratios",
+    "badRoutes": []
+  },
+  {
+    "mathErrors": 0,
+    "missingSections": [],
+    "route": "#/unit/6",
+    "title": "Sinusoidal Functions",
+    "badRoutes": []
+  },
+  {
+    "mathErrors": 0,
+    "missingSections": [],
+    "route": "#/unit/7",
+    "title": "Discrete Functions",
+    "badRoutes": []
+  },
+  {
+    "mathErrors": 0,
+    "missingSections": [],
+    "route": "#/lesson/1.1",
+    "title": "Relations and Functions",
+    "badRoutes": []
+  },
+  {
+    "mathErrors": 0,
+    "missingSections": [],
+    "route": "#/lesson/1.2",
+    "title": "Function Notation",
+    "badRoutes": []
+  },
+  {
+    "mathErrors": 0,
+    "missingSections": [],
+    "route": "#/lesson/1.3",
+    "title": "Domain and Range",
+    "badRoutes": []
+  },
+  {
+    "mathErrors": 0,
+    "missingSections": [],
+    "route": "#/lesson/1.4",
+    "title": "Parent Functions",
+    "badRoutes": []
+  },
+  {
+    "mathErrors": 0,
+    "missingSections": [],
+    "route": "#/lesson/1.5",
+    "title": "Exploring Transformations",
+    "badRoutes": []
+  },
+  {
+    "mathErrors": 0,
+    "missingSections": [],
+    "route": "#/lesson/1.6",
+    "title": "Graphing Transformations",
+    "badRoutes": []
+  },
+  {
+    "mathErrors": 0,
+    "missingSections": [],
+    "route": "#/lesson/1.7",
+    "title": "Inverse Functions",
+    "badRoutes": []
+  },
+  {
+    "mathErrors": 0,
+    "missingSections": [],
+    "route": "#/lesson/2.1",
+    "title": "Adding and Subtracting Polynomials",
+    "badRoutes": []
+  },
+  {
+    "mathErrors": 0,
+    "missingSections": [],
+    "route": "#/lesson/2.2",
+    "title": "Multiplying Polynomials",
+    "badRoutes": []
+  },
+  {
+    "mathErrors": 0,
+    "missingSections": [],
+    "route": "#/lesson/2.3",
+    "title": "Factoring Polynomials",
+    "badRoutes": []
+  },
+  {
+    "mathErrors": 0,
+    "missingSections": [],
+    "route": "#/lesson/2.4",
+    "title": "Simplifying Rational Functions",
+    "badRoutes": []
+  },
+  {
+    "mathErrors": 0,
+    "missingSections": [],
+    "route": "#/lesson/2.5",
+    "title": "Exploring Graphs of Rational Functions",
+    "badRoutes": []
+  },
+  {
+    "mathErrors": 0,
+    "missingSections": [],
+    "route": "#/lesson/2.6",
+    "title": "Multiplying and Dividing Rational Expressions",
+    "badRoutes": []
+  },
+  {
+    "mathErrors": 0,
+    "missingSections": [],
+    "route": "#/lesson/2.7",
+    "title": "Adding and Subtracting Rational Expressions",
+    "badRoutes": []
+  },
+  {
+    "mathErrors": 0,
+    "missingSections": [],
+    "route": "#/lesson/3.1",
+    "title": "Properties of Quadratic Functions",
+    "badRoutes": []
+  },
+  {
+    "mathErrors": 0,
+    "missingSections": [],
+    "route": "#/lesson/3.2",
+    "title": "Maximum and Minimum Values",
+    "badRoutes": []
+  },
+  {
+    "mathErrors": 0,
+    "missingSections": [],
+    "route": "#/lesson/3.3",
+    "title": "Inverse of a Quadratic Function",
+    "badRoutes": []
+  },
+  {
+    "mathErrors": 0,
+    "missingSections": [],
+    "route": "#/lesson/3.4",
+    "title": "Operations with Radicals",
+    "badRoutes": []
+  },
+  {
+    "mathErrors": 0,
+    "missingSections": [],
+    "route": "#/lesson/3.5",
+    "title": "Quadratic Models and Solving Quadratic Equations",
+    "badRoutes": []
+  },
+  {
+    "mathErrors": 0,
+    "missingSections": [],
+    "route": "#/lesson/3.6",
+    "title": "Zeros of a Quadratic Function",
+    "badRoutes": []
+  },
+  {
+    "mathErrors": 0,
+    "missingSections": [],
+    "route": "#/lesson/3.7",
+    "title": "Families of Quadratic Functions",
+    "badRoutes": []
+  },
+  {
+    "mathErrors": 0,
+    "missingSections": [],
+    "route": "#/lesson/3.8",
+    "title": "Linear–Quadratic Systems",
+    "badRoutes": []
+  },
+  {
+    "mathErrors": 0,
+    "missingSections": [],
+    "route": "#/lesson/4.1",
+    "title": "Growth and Decay",
+    "badRoutes": []
+  },
+  {
+    "mathErrors": 0,
+    "missingSections": [],
+    "route": "#/lesson/4.2",
+    "title": "Integer Exponents",
+    "badRoutes": []
+  },
+  {
+    "mathErrors": 0,
+    "missingSections": [],
+    "route": "#/lesson/4.3",
+    "title": "Rational Exponents",
+    "badRoutes": []
+  },
+  {
+    "mathErrors": 0,
+    "missingSections": [],
+    "route": "#/lesson/4.4",
+    "title": "Simplifying Expressions Involving Exponents",
+    "badRoutes": []
+  },
+  {
+    "mathErrors": 0,
+    "missingSections": [],
+    "route": "#/lesson/4.5",
+    "title": "Properties of Exponential Functions",
+    "badRoutes": []
+  },
+  {
+    "mathErrors": 0,
+    "missingSections": [],
+    "route": "#/lesson/4.6",
+    "title": "Transformations of Exponential Functions",
+    "badRoutes": []
+  },
+  {
+    "mathErrors": 0,
+    "missingSections": [],
+    "route": "#/lesson/4.7",
+    "title": "Exponential Applications",
+    "badRoutes": []
+  },
+  {
+    "mathErrors": 0,
+    "missingSections": [],
+    "route": "#/lesson/5.1",
+    "title": "Trigonometric Ratios of Acute Angles",
+    "badRoutes": []
+  },
+  {
+    "mathErrors": 0,
+    "missingSections": [],
+    "route": "#/lesson/5.2",
+    "title": "Special Angles and Exact Values",
+    "badRoutes": []
+  },
+  {
+    "mathErrors": 0,
+    "missingSections": [],
+    "route": "#/lesson/5.3",
+    "title": "Angles Greater Than 90°",
+    "badRoutes": []
+  },
+  {
+    "mathErrors": 0,
+    "missingSections": [],
+    "route": "#/lesson/5.4",
+    "title": "Trigonometric Ratios for 0°–360°",
+    "badRoutes": []
+  },
+  {
+    "mathErrors": 0,
+    "missingSections": [],
+    "route": "#/lesson/5.5",
+    "title": "Trigonometric Identities",
+    "badRoutes": []
+  },
+  {
+    "mathErrors": 0,
+    "missingSections": [],
+    "route": "#/lesson/5.6",
+    "title": "Sine Law",
+    "badRoutes": []
+  },
+  {
+    "mathErrors": 0,
+    "missingSections": [],
+    "route": "#/lesson/5.7",
+    "title": "Cosine Law",
+    "badRoutes": []
+  },
+  {
+    "mathErrors": 0,
+    "missingSections": [],
+    "route": "#/lesson/5.8",
+    "title": "Three-Dimensional Trigonometry Problems",
+    "badRoutes": []
+  },
+  {
+    "mathErrors": 0,
+    "missingSections": [],
+    "route": "#/lesson/6.1",
+    "title": "Periodic Functions",
+    "badRoutes": []
+  },
+  {
+    "mathErrors": 0,
+    "missingSections": [],
+    "route": "#/lesson/6.2",
+    "title": "Properties of Sinusoidal Functions",
+    "badRoutes": []
+  },
+  {
+    "mathErrors": 0,
+    "missingSections": [],
+    "route": "#/lesson/6.3",
+    "title": "Interpreting Sinusoidal Functions",
+    "badRoutes": []
+  },
+  {
+    "mathErrors": 0,
+    "missingSections": [],
+    "route": "#/lesson/6.4",
+    "title": "Transformations of Sinusoidal Functions",
+    "badRoutes": []
+  },
+  {
+    "mathErrors": 0,
+    "missingSections": [],
+    "route": "#/lesson/6.5",
+    "title": "Sketching Transformed Sinusoidal Graphs",
+    "badRoutes": []
+  },
+  {
+    "mathErrors": 0,
+    "missingSections": [],
+    "route": "#/lesson/6.6",
+    "title": "Sinusoidal Models",
+    "badRoutes": []
+  },
+  {
+    "mathErrors": 0,
+    "missingSections": [],
+    "route": "#/lesson/6.7",
+    "title": "Solving Problems with Sinusoidal Models",
+    "badRoutes": []
+  },
+  {
+    "mathErrors": 0,
+    "missingSections": [],
+    "route": "#/lesson/7.1",
+    "title": "Arithmetic Sequences",
+    "badRoutes": []
+  },
+  {
+    "mathErrors": 0,
+    "missingSections": [],
+    "route": "#/lesson/7.2",
+    "title": "Geometric Sequences",
+    "badRoutes": []
+  },
+  {
+    "mathErrors": 0,
+    "missingSections": [],
+    "route": "#/lesson/7.3",
+    "title": "Rules for Sequences",
+    "badRoutes": []
+  },
+  {
+    "mathErrors": 0,
+    "missingSections": [],
+    "route": "#/lesson/7.4",
+    "title": "Recursive Sequences",
+    "badRoutes": []
+  },
+  {
+    "mathErrors": 0,
+    "missingSections": [],
+    "route": "#/lesson/7.5",
+    "title": "Arithmetic Series",
+    "badRoutes": []
+  },
+  {
+    "mathErrors": 0,
+    "missingSections": [],
+    "route": "#/lesson/7.6",
+    "title": "Geometric Series",
+    "badRoutes": []
+  },
+  {
+    "mathErrors": 0,
+    "missingSections": [],
+    "route": "#/lesson/7.7",
+    "title": "Pascal’s Triangle and Binomial Expansions",
+    "badRoutes": []
+  },
+  {
+    "mathErrors": 0,
+    "missingSections": [],
+    "route": "#/lesson/F1",
+    "title": "Simple Interest",
+    "badRoutes": []
+  },
+  {
+    "mathErrors": 0,
+    "missingSections": [],
+    "route": "#/lesson/F2",
+    "title": "Compound Interest and Future Value",
+    "badRoutes": []
+  },
+  {
+    "mathErrors": 0,
+    "missingSections": [],
+    "route": "#/lesson/F3",
+    "title": "Present Value",
+    "badRoutes": []
+  },
+  {
+    "mathErrors": 0,
+    "missingSections": [],
+    "route": "#/lesson/F4",
+    "title": "Future Value of Ordinary Simple Annuities",
+    "badRoutes": []
+  },
+  {
+    "mathErrors": 0,
+    "missingSections": [],
+    "route": "#/lesson/F5",
+    "title": "Present Value of Ordinary Simple Annuities",
+    "badRoutes": []
+  },
+  {
+    "mathErrors": 0,
+    "missingSections": [],
+    "route": "#/lesson/F6",
+    "title": "Solving Financial Problems with Technology",
+    "badRoutes": []
+  },
+  {
+    "mathErrors": 0,
+    "missingSections": [],
+    "route": "#/review/1",
+    "title": "Unit 1 review: Introduction to Functions",
+    "badRoutes": []
+  },
+  {
+    "mathErrors": 0,
+    "missingSections": [],
+    "route": "#/review/2",
+    "title": "Unit 2 review: Algebraic Expressions",
+    "badRoutes": []
+  },
+  {
+    "mathErrors": 0,
+    "missingSections": [],
+    "route": "#/review/3",
+    "title": "Unit 3 review: Quadratic Functions",
+    "badRoutes": []
+  },
+  {
+    "mathErrors": 0,
+    "missingSections": [],
+    "route": "#/review/4",
+    "title": "Unit 4 review: Exponential Functions",
+    "badRoutes": []
+  },
+  {
+    "mathErrors": 0,
+    "missingSections": [],
+    "route": "#/review/5",
+    "title": "Unit 5 review: Trigonometric Ratios",
+    "badRoutes": []
+  },
+  {
+    "mathErrors": 0,
+    "missingSections": [],
+    "route": "#/review/6",
+    "title": "Unit 6 review: Sinusoidal Functions",
+    "badRoutes": []
+  },
+  {
+    "mathErrors": 0,
+    "missingSections": [],
+    "route": "#/review/7",
+    "title": "Unit 7 review: Discrete Functions",
+    "badRoutes": []
+  },
+  {
+    "mathErrors": 0,
+    "missingSections": [],
+    "route": "#/review/final",
+    "title": "Final course review",
+    "badRoutes": []
+  },
+  {
+    "mathErrors": 0,
+    "missingSections": [],
+    "route": "#/sources",
+    "title": "Sources & verification",
+    "badRoutes": []
+  }
+]

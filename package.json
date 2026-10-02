@@ -1,0 +1,16 @@
+{
+  "name": "open-functions-course",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1 --port 4173 --strictPort",
+    "build": "node scripts/manifest.mjs && vite build",
+    "validate": "node scripts/validate.mjs",
+    "validate:release": "node scripts/validate.mjs --release",
+    "manifest": "node scripts/manifest.mjs",
+    "preview": "vite preview --host 127.0.0.1 --port 4174 --strictPort"
+  },
+  "dependencies": {"katex": "^0.16.22", "vite": "^7.1.7"},
+  "devDependencies": {}
+}
